@@ -19,4 +19,19 @@
 ##6小的提示窗（很快就消失 只能提示一句话 无按钮）
 ``react-native-sk-toast(https://github.com/shigebeyond/react-native-sk-toast)``
 ##7打开手机的设置
-``react-native-open-settings(<a href="https://github.com/lunarmayor/react-native-open-settings">https://github.com/lunarmayor/react-native-open-settings</a>)``
+``react-native-open-settings(https://github.com/lunarmayor/react-native-open-settings)``
+##8iOS 表单处理控件（包括类型 提交等操作 具体体现看文档）
+``tcomb-form-native(https://github.com/gcanti/tcomb-form-native)``
+##9导航控件
+`` react-native-navbar(https://github.com/react-native-community/react-native-navbar)``
+##10React Native 轮播控件 
+``react-native-carousel(https://github.com/nick/react-native-carousel)``
+``react-native-looped-carousel(实现双向循环 https://github.com/appintheair/react-native-looped-carousel)``
+##11下拉刷新组件 
+``react-native-refreshable-listview(https://github.com/jsdf/react-native-refreshable-listview)``
+##12model弹窗的插件
+``react-native-modal(https://github.com/brentvatne/react-native-modal)``
+##13文本解析控件
+``react-native-htmltext(https://github.com/siuying/react-native-htmltext)``
+##14hybrid模式开发的app原声ios android代码与js代码之间的交互桥梁
+``react-native-webview-bridge(https://github.com/alinz/react-native-webview-bridge)``
