@@ -19,4 +19,4 @@
 ##6小的提示窗（很快就消失 只能提示一句话 无按钮）
 ``react-native-sk-toast(https://github.com/shigebeyond/react-native-sk-toast)``
 ##7打开手机的设置
-``react-native-open-settings(https://github.com/lunarmayor/react-native-open-settings)``
+``react-native-open-settings(<a href="https://github.com/lunarmayor/react-native-open-settings">https://github.com/lunarmayor/react-native-open-settings</a>)``
