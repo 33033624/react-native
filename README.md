@@ -10,7 +10,13 @@
 ``(2)react-native-amap-location(官方的：高德地图获取当前位置的插件 https://github.com/xiaobuu/react-native-amap-location ) ``
 ``(3)react-native-smart-amap-location（改编后的中文插件 https://github.com/react-native-component/react-native-smart-amap-location）``
 ##3开启摄像头
-``react-native-camera(https://github.com/lwansbrough/react-native-camera)``
-##4获取设备信息(设备id,名字等等)
+``react-native-image-picker（https://github.com/marcshilling/react-native-image-picker）``
+##4获取设备信息(设备id,设备名字等等)
 ``react-native-device-info(https://github.com/rebeccahughes/react-native-device-info)``
-<div textAlign="center">我是</div>
+##5热更新
+``(1)react-native-code-push(https://github.com/search?utf8=%E2%9C%93&q=react-native-code-push)``
+``(2)react-native-pushy(国内的热更新的插件https://github.com/reactnativecn/react-native-pushy)``
+##6小的提示窗（很快就消失 只能提示一句话 无按钮）
+``react-native-sk-toast(https://github.com/shigebeyond/react-native-sk-toast)``
+##7打开手机的设置
+``react-native-open-settings(https://github.com/lunarmayor/react-native-open-settings)``
