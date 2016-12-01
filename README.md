@@ -33,5 +33,5 @@
 ``react-native-modal(https://github.com/brentvatne/react-native-modal)``
 ##13文本解析控件
 ``react-native-htmltext(https://github.com/siuying/react-native-htmltext)``
-##14hybrid模式开发的app原声ios android代码与js代码之间的交互桥梁
+##14hybrid模式开发的app原生ios android代码与js代码之间的交互桥梁
 ``react-native-webview-bridge(https://github.com/alinz/react-native-webview-bridge)``
