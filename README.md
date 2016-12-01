@@ -6,7 +6,11 @@
                 `` <uses-permission android:name="android.permission.READ_SMS"/> ``   
                 `` <uses-permission android:name="android.permission.READ_CALL_LOG"/>``
 ##2获取当前位置的插件
-``react-native-baidumap-kit(百度地图获取的插件https://github.com/bird512/react-native-baidumap-kit)``
-``react-native-amap-location(官方的：高德地图获取当前位置的插件 https://github.com/xiaobuu/react-native-amap-location ) ``
-``react-native-smart-amap-location（改编后的中文插件 https://github.com/react-native-component/react-native-smart-amap-location）``
-
+``(1)react-native-baidumap-kit(百度地图获取的插件https://github.com/bird512/react-native-baidumap-kit)``
+``(2)react-native-amap-location(官方的：高德地图获取当前位置的插件 https://github.com/xiaobuu/react-native-amap-location ) ``
+``(3)react-native-smart-amap-location（改编后的中文插件 https://github.com/react-native-component/react-native-smart-amap-location）``
+##3开启摄像头
+``react-native-camera(https://github.com/lwansbrough/react-native-camera)``
+##4获取设备信息(设备id,名字等等)
+``react-native-device-info(https://github.com/rebeccahughes/react-native-device-info)``
+<div text-align="center">我是</div>
