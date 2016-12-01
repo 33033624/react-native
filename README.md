@@ -5,7 +5,8 @@
               ``  按照（1）的官方文档配置后，需要在app/android/app/src/main/AndroidManifest.xml添加  ``  
                 `` <uses-permission android:name="android.permission.READ_SMS"/> ``   
                 `` <uses-permission android:name="android.permission.READ_CALL_LOG"/>``
-##2 react-native-baidumap-kit(百度地图获取的插件https://github.com/bird512/react-native-baidumap-kit)
+##2获取当前位置的插件
+``react-native-baidumap-kit(百度地图获取的插件https://github.com/bird512/react-native-baidumap-kit)``
 ``react-native-amap-location(官方的：高德地图获取当前位置的插件 https://github.com/xiaobuu/react-native-amap-location ) ``
 ``react-native-smart-amap-location（改编后的中文插件 https://github.com/react-native-component/react-native-smart-amap-location）``
 
