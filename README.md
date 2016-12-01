@@ -13,4 +13,4 @@
 ``react-native-camera(https://github.com/lwansbrough/react-native-camera)``
 ##4获取设备信息(设备id,名字等等)
 ``react-native-device-info(https://github.com/rebeccahughes/react-native-device-info)``
-<div text-align="center">我是</div>
+<div textAlign="center">我是</div>
