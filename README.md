@@ -39,3 +39,5 @@
 ``https://github.com/33033624/react-native.git``
 ##16 封装了好多使用起来非常方便的组件
 ``https://github.com/react-native-community/react-native-elements``
+## 17 轮播插件
+``https://github.com/leecade/react-native-swiper``
