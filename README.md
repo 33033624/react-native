@@ -35,6 +35,7 @@
 ``react-native-htmltext(https://github.com/siuying/react-native-htmltext)``
 ##14hybrid模式开发的app原生ios android代码与js代码之间的交互桥梁
 ``react-native-webview-bridge(https://github.com/alinz/react-native-webview-bridge)``
-##15react-router的路由插件
+##15react-router的路由插件 并且里面提供了对应的页面跳转动画
 ``https://github.com/33033624/react-native.git``
-并且里面提供了对应的页面跳转动画
+##16 封装了好多使用起来非常方便的组件
+``https://github.com/react-native-community/react-native-elements``
