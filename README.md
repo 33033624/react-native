@@ -43,3 +43,5 @@
 ``https://github.com/leecade/react-native-swiper``
 ## 18下拉刷新插件
 ``https://github.com/lvming6816077/react-native-pullRefreshScrollView``
+## 19动画
+``https://github.com/react-native-community/react-native-tab-view``
