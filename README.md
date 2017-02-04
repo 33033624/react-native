@@ -47,3 +47,5 @@
 ``https://github.com/react-native-community/react-native-tab-view``
 ## 20底部弹出滚动选择框
 ``https://github.com/beefe/react-native-picker``
+## 21本地存储
+``https://github.com/sunnylqm/react-native-storage``
