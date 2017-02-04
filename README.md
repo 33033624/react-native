@@ -45,3 +45,5 @@
 ``https://github.com/lvming6816077/react-native-pullRefreshScrollView``
 ## 19动画
 ``https://github.com/react-native-community/react-native-tab-view``
+## 20底部弹出滚动选择框
+``https://github.com/beefe/react-native-picker``
